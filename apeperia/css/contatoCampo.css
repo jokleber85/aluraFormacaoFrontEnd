@@ -27,7 +27,8 @@
 }
 
 .contatoCampo-checkbox {
-  display: none;
+  /* display: none; */
+  opacity: 0;
 }
 
 .contatoCampo-icone {
