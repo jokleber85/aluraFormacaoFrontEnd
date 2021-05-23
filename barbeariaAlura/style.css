@@ -1,3 +1,7 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 header {
     background: #BBBBBB; 
     padding: 20px 0;
@@ -91,11 +95,6 @@ footer {
     margin-top: 20px;
 }
 
-main {
-    width: 940px;
-    margin: 0 auto;
-}
-
 form {
     margin: 40px 0;
 }
@@ -150,4 +149,152 @@ th, td {
     transform: scale(1.2);
     /* transform: rotate(70deg); */
 }
+
+/* css index.html*/
+
+.banner {
+    width: 100%;
+}
+
+.principal {
+    padding: 3em 0;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.tituloPrincipal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em; 
+    clear: left;
+    /* color: rgba(0, 0, 0, 0.3); opacidade em cores*/
+    /* text-shadow: 2px 2px 2px #FF0000; */
+}
+
+.tituloPrincipal:first-letter{
+    font-weight: bold;
+}
+
+.principal p {
+    margin: 0 0 1em;
+}
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+
+.utensilios {
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.beneficios{
+    padding: 3em 0;
+    background: #888888;
+}
+
+.conteudoBeneficios{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.listaBeneficios{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.itens {
+    line-height: 1.5;
+}
+
+.itens:before {
+    content:"✪";
+}
+
+.itens:first-child {
+    font-weight: bold;
+}
+
+/*.itens:nth-child(2n){  Marcação css por elemento 
+    font-weight: bold;
+}*/
+
+.imagemBeneficios {
+    width: 60%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px #000000; /* eixoX eixoY variacao espalhamento cor, eixoX eixoY cor  */
+    /* box-shadow: inset 0 0 5px black;  sombra interna */
+}
+
+.imagemBeneficios:hover{
+    opacity: 0.3;
+}
+
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+
+}
+
+.mapaConteudo{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.mapa p {
+    text-align: center;
+    margin: 0 0 2em;
+}
+
+.video {
+    width: 560px;
+    margin: 2em auto;
+}
+
+@media screen and (max-width: 480px){
+    .caixa, .principal, .conteudoBeneficios, .mapaConteudo, .video {
+        width: auto;
+    }    
+
+    h1 {
+        text-align: center;
+    }
+
+    nav{
+        position: static;
+    }
+
+    .listaBeneficios, .imagemBeneficios {
+        width: 100%;
+    }
+}
+/* main > p { Filho Direto 
+     
+}
+
+img + p { irmão 
+
+}
+
+img ~ p { todos
+
+}
+
+.principal p:not(#missao) {excessão 
+
+} 
+
+calc (40% - 25px)
+
+*/
+
+
 
