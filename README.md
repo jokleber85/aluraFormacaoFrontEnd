@@ -4,7 +4,7 @@ Formação FrontEnd</br>
 
 JavaScript: primeiros passos com a linguagem (10 horas)</br>
 
-##</br>
+## <br />
 
 Abrir o terminal do Node</br>
 ``` js
