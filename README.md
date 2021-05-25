@@ -12,4 +12,5 @@ HTML5 e CSS3 parte 4: Avançando no CSS (08 horas) </br>
 
 Acessibilidade web parte 1: tornando seu front-end inclusivo (06 horas)</br>
 
-JavaScript: primeiros passos com a linguagem (10 horas)</br>
+JavaScript: Primeiros passos com a linguagem (10 horas)<br />
+JavaScript: Programando a Orientação a Objetos (10 horas)
