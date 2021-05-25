@@ -4,8 +4,8 @@ Formação FrontEnd</br>
 
 Acessibilidade web parte 1: tornando seu front-end inclusivo (06 horas)</br>
 
-Software de leitor de tela recomendável para análise de acessibilidade -> NVDA
-
+Software de leitor de tela recomendável para análise de acessibilidade -> NVDA 
+## <br />
 Dicas:
 * <h></h> são referências dos níveis da página para os leitores de tela.</br>
 * lang="pt-br" na página e adicionar essa configuração para extrangeira quando houver referencias internacionais. ex.:</br>
