@@ -17,3 +17,5 @@ JavaScript: Primeiros passos com a linguagem (10 horas)</br>
 JavaScript: Programando a Orientação a Objetos (10 horas)</br>
 
 JavaScript: Interfaces e Herança em Orientação a Objetos (12 horas)</br>
+
+Layouts Responsivos: Trabalhando com layouts mobile</br>
