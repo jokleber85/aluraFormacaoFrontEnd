@@ -18,4 +18,6 @@ JavaScript: Programando a Orientação a Objetos (10 horas)</br>
 
 JavaScript: Interfaces e Herança em Orientação a Objetos (12 horas)</br>
 
-Layouts Responsivos: Trabalhando com layouts mobile</br>
+Layouts Responsivos: Trabalhando com layouts mobile (07 horas)</br>
+
+Arquitetura CSS: Descomplicando os problemas (08 horas)</br>
