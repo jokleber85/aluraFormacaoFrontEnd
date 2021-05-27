@@ -2,5 +2,14 @@ Alura
 
 Formação FrontEnd</br>
 
-Acessibilidade web parte 1: tornando seu front-end inclusivo (06 horas)
+Layouts Responsivos: Trabalhando com layouts mobile (07 horas)
 ## <br />
+
+Declaração de variáveis:
+```js
+:root{
+  --nomeVariavel: valor;
+}
+var(--nomeVariavel)/* chamar a variável */
+```
+</br>
