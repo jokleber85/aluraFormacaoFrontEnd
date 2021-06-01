@@ -25,3 +25,5 @@ Arquitetura CSS: Descomplicando os problemas (08 horas)</br>
 Flexbox: Posicione elementos na tela (09 horas)</br>
 
 CSS Grid: Simplificando layouts (08 horas)</br>
+
+JS na Web: Manipule o DOM com JavaScript (06 horas)</br>
