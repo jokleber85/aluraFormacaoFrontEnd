@@ -29,3 +29,5 @@ CSS Grid: Simplificando layouts (08 horas)</br>
 JS na Web: Manipule o DOM com JavaScript (06 horas)</br>
 
 JS na Web: Armazenando dados no navegador (08 horas)</br>
+
+Expressões regulares: Capturando textos de forma mágica (12 horas)</br>
