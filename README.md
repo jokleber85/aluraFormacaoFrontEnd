@@ -6,7 +6,7 @@ Expressões regulares: Capturando textos de forma mágica (12 horas)
 ## <br />
 
 Ferramentas:
-(regexr)[https://regexr.com/]
+(regexr)[https://regexr.com/]</br>
 (regex101)[https://regex101.com/]
 
 ##
@@ -37,7 +37,7 @@ Quantifier(quantidade de vezes):
 * cnpj: \d{2}\.\d{3}\.\d{3}/\d{4}\-\d{2} 
 * ip: \d{1,3}\.\d{1,3}\.\{1,3}\.\{1,3}
 * cep: \d{5}\-\d{3}
-* telefone: \(\d{2}\) \d{4}-\d{4}
+* telefone (ddd + 8 ou 9 dígitos): \(\d{2}\)\s\d?\d{4}\-\d{4}
 * <code></code>: </?code>
 * hora (h-min-s): [0-2]?\dh[0-6]\dmin[0-6]\ds ou \d{2}h\d{2}min\d{2}s
 * placa: [A-Z]{3}\-\d{4}
@@ -51,7 +51,7 @@ Exemplos:
 * somente determinada expressão que não tenha \w: \b expressão \b <!-- sem espaços -->
 * somente determinada expressão que esteja entre \w (contrário de \b): \B expressão \B
 * inicio da expressãoo: ^expressão
-* fim da expressãoo: expressão$
+* fim da expressão: expressão$
 
 Grupos
 * grupos: () 
