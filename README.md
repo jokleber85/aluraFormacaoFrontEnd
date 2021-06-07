@@ -36,6 +36,6 @@ browser-sync start --server --file . --host --port 5000 --startPath telas/lista_
 </br>
 
 PS: os arquivos a seguir são formas ainda utilizadas nas comunicações assícronas, mas que estão perdendo uso com novas atualizações:
-../service/Xcliente-service.js
-../controller/XlistaCliente.js
-../controller/XatualizaCliente.js
+* ../service/Xcliente-service.js
+* ../controller/XlistaCliente.js
+* ../controller/XatualizaCliente.js
