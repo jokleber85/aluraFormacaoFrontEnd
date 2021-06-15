@@ -33,3 +33,5 @@ JS na Web: Armazenando dados no navegador (08 horas)</br>
 Expressões regulares: Capturando textos de forma mágica (12 horas)</br>
 
 JS na web: CRUD com JavaScript assíncrono (08 horas)</br>
+
+JavaScript na Web: Validação de Formulários e HTML5 (08 horas)</br>
