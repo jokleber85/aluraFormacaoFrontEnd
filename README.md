@@ -5,7 +5,7 @@ Formação FrontEnd</br>
 Expressões regulares: Capturando textos de forma mágica (12 horas)
 ## <br />
 
-Ferramentas:
+Ferramentas:<br />
 [regexr](https://regexr.com/)</br>
 [regex101](https://regex101.com/)
 
