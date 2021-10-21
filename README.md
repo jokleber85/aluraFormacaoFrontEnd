@@ -6,8 +6,8 @@ Expressões regulares: Capturando textos de forma mágica (12 horas)
 ## <br />
 
 Ferramentas:
-(regexr)[https://regexr.com/]</br>
-(regex101)[https://regex101.com/]
+[regexr](https://regexr.com/)</br>
+[regex101](https://regex101.com/)
 
 ##
 Obs: verificar o "raw" deste arquivo pois a extensão .md oculta/altera alguns caracteres especiais</br>
